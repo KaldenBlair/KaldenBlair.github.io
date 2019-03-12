@@ -1,11 +1,23 @@
-#Header{
+h1{
   text-align:center;
+  color:white;
+   background-color:darkblue;
 }
 
 
 #ML{
   padding: 10px;
   text-align:center;
+}
+
+h2{
+  color:blue;
+  background-color:lightblue;
+}
+
+h3{
+  color:lightblue;
+  background-color:blue;
 }
 
 #equiptment{
